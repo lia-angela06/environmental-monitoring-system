@@ -101,4 +101,4 @@ git clone https://github.com/lia-angela06/environmental-monitoring-system.git
 
 ---
 
-*Built during an IEEE workshop @ Virginia State University — Spring 2025*
+*Built during an IEEE workshop @ Virginia State University — Spring 2026*
